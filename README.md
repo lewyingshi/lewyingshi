@@ -14,7 +14,7 @@
 
 ### :octocat: Skills
 ***
-I am currently doing a lot of work with R and a little Tableau. I am expanding my data science horizon with Python and other visualization tools out that make the job efficient. 
+I am currently doing a lot of work with R and a little Tableau. I am expanding my data science horizon with Python and other visualization tools out there that will produce the most efficient results. 
 
 <details>
   <summary><b>:telescope: 2020/21 goals</b></summary>
