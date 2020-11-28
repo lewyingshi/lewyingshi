@@ -1,16 +1,23 @@
-### Hi there 👋
+### Dennis Lew - @lewyingshi
+***
 
-<!--
-**lewyingshi/lewyingshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<br><br>
+</p>
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Hi, I am currently a student at Winona State University with a major in Data Science.
+  <br> I love all things data viz and I'm an aspiring data analyst/graphics reporter.
+  Check out my current/long-term project at this <a href = "https://lewyingshi.github.io/blog/"> blog </a> where I attempt to visualize data and report on what i've learned. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :octocat: Skills
+***
+
+<details>
+  <summary><b>:telescope: 2020/21 goals</b></summary>
+  * Learn Data Science in Python
+  * Learn to visualize in Python
+  
+</details>
