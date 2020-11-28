@@ -18,6 +18,6 @@ I am currently doing a lot of work with R and a little Tableau. I am expanding m
 
 <details>
   <summary><b>:telescope: 2020/21 goals</b></summary>
-  * Learn Data Science in Python
-  * <br>Learn to visualize data in Python
+  * Learn Data Science in Python<br>
+  * Learn to visualize data in Python
 </details>
