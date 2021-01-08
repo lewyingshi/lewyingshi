@@ -18,7 +18,7 @@ I am currently doing a lot of visualization projects with Tableau and a little i
 
 <details>
   <summary><b>:telescope: 2021 goals</b></summary>
-  * Improve vizualization/analytical skills in Tableau
+  * Improve vizualization/analytical skills in Tableau<br>
   * Learn data science in Python<br>
   * Learn to visualize data with Python packages<br>
 </details>
