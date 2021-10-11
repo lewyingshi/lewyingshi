@@ -14,11 +14,11 @@
 
 ### :octocat: Skills
 ***
-I am currently doing a lot of visualization projects with Tableau and a little in R + Python. I am also expanding my data science horizon with Python and other visualization tools out there that will produce efficient results for data storytelling, analysis, cleaning, etc. 
+Currently learning SQL...
 
 <details>
   <summary><b>:telescope: 2021 goals</b></summary>
   * Improve vizualization/analytical skills in Tableau<br>
+  * Learn SQL<br>
   * Learn data science in Python<br>
-  * Learn to visualize data with Python packages<br>
 </details>
