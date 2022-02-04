@@ -14,11 +14,9 @@
 
 ### :octocat: Skills
 ***
-Currently learning SQL...
+
 
 <details>
-  <summary><b>:telescope: 2021 goals</b></summary>
-  * Improve vizualization/analytical skills in Tableau<br>
-  * Learn SQL<br>
-  * Learn data science in Python<br>
+  <summary><b>:telescope: Goals </b></summary>
+  * Learning <br>
 </details>
